@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "classical_ref/a5_gmr1",
+        "qgmr1_code"
+    ]
+}
